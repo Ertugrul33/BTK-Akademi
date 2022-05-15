@@ -1,0 +1,7 @@
+- Bir durumu nesnel olarak analiz edip herhangi bir davranış biçiminin avantaj, dezavantaj ve sonuçlarını değerlendirmek.
+- Soyut fikirleri kavrayıp uyumlu bir resim oluşturmak için "parçaları" bir araya getirmek.
+- Geniş bir seçenek yelpazesi oluşturmak, yeni olasılıkları gözünde canlandırmak ve çalışmaları için yeni yaklaşımlar 
+formüle etmek.
+- Önsezileri, nihai sonuçta baskın olmalarına izin vermeden, karar almaya dahil etmek.
+- Bir sistemi -bu sistem ister ekip, birim veya kuruluş, ister bir proje veya süreç olsun- oluşturan pek çok unsur arasındaki
+sebep-sonuç ilişkilerini anlamak.
