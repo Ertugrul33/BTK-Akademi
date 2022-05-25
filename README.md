@@ -13,4 +13,5 @@
 - DevExpress Dashboard ile İş Zekası ve Veri Analitiği
 - Stratejik Düşünme
 - Microsoft Word
+- Versiyon Kontrolleri: Git ve Github
 - Bilgi Teknolojilerine Giriş
