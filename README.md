@@ -10,6 +10,7 @@
 - Veri Bilimi
   * R ile Veri Bilimi
   * Veri Bilimi için Python ve Tensorflow
+- Uygulamalarla SQL Öğreniyorum
 - DevExpress Dashboard ile İş Zekası ve Veri Analitiği
 - Stratejik Düşünme
 - Microsoft Word
